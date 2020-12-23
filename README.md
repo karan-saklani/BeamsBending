@@ -5,8 +5,7 @@ This file contains functions to solve basic queries and has support for all cros
 <li> Rectangular - r </li>
 <li> Semicircle - sc </li>
 <li> Circle - c </li>
-<li> Triangle - rt </li>
-<\ul>
+<li> Triangle - rt </li><\ul>
 The code is interactive and does not involve the use of spreadsheets.
 <h2> Asymmetric Bending for Rectangular Cross Section </h2> <br>
 This file is recommended for rectnagular cross sections. An excel sheet named MI.xlsx can be used to evaluate the same. All values must be entered in the spreadsheet. Here 

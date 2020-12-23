@@ -5,7 +5,7 @@ This file contains functions to solve basic queries and has support for all cros
 <li> Rectangular - r </li>
 <li> Semicircle - sc </li>
 <li> Circle - c </li>
-<li> Triangle - rt <\li>
+<li> Triangle - rt </li>
 <\ul>
 The code is interactive and does not involve the use of spreadsheets.
 <h2> Asymmetric Bending for Rectangular Cross Section </h2> <br>
